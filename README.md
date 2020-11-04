@@ -21,3 +21,4 @@ order(order1);
 * 截图:
 [![B66KhQ.jpg](https://s1.ax1x.com/2020/11/04/B66KhQ.jpg)](https://imgchr.com/i/B66KhQ)
 
+# 搜题脚本2  添加性特性，自动获取粘贴板内容并自动搜题返回，优化代码结构，更加可复用
